@@ -37,4 +37,7 @@ As can be seen from the map, atemp and temp seems to be correlated to the target
 
 
 
-
+# Final Recommendations for the Company:
+The months - Jan , Jul , Sep , Nov , Dec should be considered by the company as they have a higher demand as compared to other months.
+With an increase in temperature the demand also increases, hence it should keep track of the weather conditions.
+During the Winter season the demand rises, hence it should be well prepared to meet the high demand
